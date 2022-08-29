@@ -19,7 +19,7 @@ Preview: [https://fake-rest-api-nodejs.herokuapp.com](https://fake-rest-api-node
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/robinhuy/fake-rest-api-nodejs.git
+git clone https://github.com/NguyenVanManh-AI/m-fake-rest-api-nodejs
 ```
 
 or fork to your account and clone the forked repo
