@@ -17,7 +17,7 @@
   "users": [
     {
       "id": 11,
-      "firstName": "VanManh",
+      "firstName": "Van Manh",
       "lastName": "",
       "username": "vanmanh",
       "email": "vanmanh@gmail.com",
@@ -29,11 +29,11 @@
     },
     {
       "id": 12,
-      "firstName": "VanManh2",
-      "lastName": "",
-      "username": "vanmanh2",
-      "email": "vanmanh2@gmail.com",
-      "password": "vanmanh2",
+      "firstName": "Van Manh",
+      "lastName": "Nguyen",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
       "avatar": "",
       "gender": "Male",
       "createdAt": 1660063794121,
